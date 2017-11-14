@@ -22,3 +22,7 @@ The documentation of the library is available on <a href="http://safemdp.readthe
 The file `examples/sample.py` implements a simple examples that samples a random world from a Gaussian process and shows exploration results.
 
 The code for the experiments in the paper can be found in the `examples/mars/` directory.
+
+# License
+
+Safe MDP is [MIT licensed](LICENSE).
